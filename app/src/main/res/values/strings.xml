@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Einzelbeispiel</string>
+    <string name="abschicken">ABSCHICKEN</string>
+    <string name="gib_deine_matrikelnummer_ein">Gib deine Matrikelnummer ein</string>
+    <string name="antwort_vom_server">Antwort vom Server</string>
+    <string name="calculate">Calculate</string>
+    <string name="matrikelnummer">Matrikelnummer</string>
 </resources>
